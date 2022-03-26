@@ -1,0 +1,3932 @@
+{
+  "version": "2.0.10",
+  "replacements": [
+    {
+      "repA": "Izuna",
+      "repB": "Izuna",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Madara",
+      "repB": "Madara",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hashirama",
+      "repB": "Hashirama",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Senju",
+      "repB": "Senju",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Uzumaki",
+      "repB": "Uzumaki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Konoha",
+      "repB": "Konoha",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "ZengYan",
+      "repB": "ZengYan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hyuga",
+      "repB": "Hyuga",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hiraishin",
+      "repB": "Hiraishin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kaguya",
+      "repB": "Kaguya",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yamanaka",
+      "repB": "Yamanaka",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Akimichi",
+      "repB": "Akimichi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ino–Shika–Chō",
+      "repB": "Ino–Shika–Chō",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kurama",
+      "repB": "Kurama",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tobirama",
+      "repB": "Tobirama",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Orochimaru",
+      "repB": "Orochimaru",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tsunade",
+      "repB": "Tsunade",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hatake",
+      "repB": "Hatake",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sakumo",
+      "repB": "Sakumo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kakashi",
+      "repB": "Kakashi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "White Fang",
+      "repB": "White Fang",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Might Duy",
+      "repB": "Might Duy",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kushina",
+      "repB": "Kushina",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Jiraiya",
+      "repB": "Jiraiya",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Minato",
+      "repB": "Minato",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hiruzen",
+      "repB": "Hiruzen",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Nawaki",
+      "repB": "Nawaki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shimura",
+      "repB": "Shimura",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Danzo",
+      "repB": "Danzo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hokage",
+      "repB": "Hokage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sarutobi",
+      "repB": "Sarutobi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sharingan",
+      "repB": "Sharingan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tomoe",
+      "repB": "Tomoe",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shadow Clone",
+      "repB": "Shadow Clone",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Mangekyo",
+      "repB": "Mangekyo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kekkei Genkai",
+      "repB": "Kekkei Genkai",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Wood Clone",
+      "repB": "Wood Clone",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rasengan",
+      "repB": "Rasengan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Fugaku",
+      "repB": "Fugaku",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kyūbi (Nine-Tails)",
+      "repB": "Kyūbi (Nine-Tails)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rinne Tensei (Saṃsara of Heavenly Life)",
+      "repB": "Rinne Tensei (Saṃsara of Heavenly Life)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Fuck",
+      "repB": "Fuck",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Nature Transformation",
+      "repB": "Nature Transformation",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Jōnin",
+      "repB": "Jōnin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Katon (Fire Style)",
+      "repB": "Katon (Fire Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sannin",
+      "repB": "Sannin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "ŌtsutsukiKaguya",
+      "repB": "Ōtsutsuki Kaguya",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Forbidden Technique",
+      "repB": "Forbidden Technique",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Daitoppa (Great Breakthrough)",
+      "repB": "Daitoppa (Great Breakthrough)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Fūton (Wind Style)",
+      "repB": "Fūton (Wind Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Namikaze",
+      "repB": "Namikaze",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Izayoi",
+      "repB": "Izayoi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Zhang ye",
+      "repB": "Zhang ye",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chunin",
+      "repB": "Chunin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "精英Chunin",
+      "repB": "Elite Chunin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Jōnin",
+      "repB": "Jōnin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "精英Jōnin",
+      "repB": "Elite Jōnin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "特别Jōnin",
+      "repB": "Special Jōnin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Genin",
+      "repB": "Genin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Mizukage",
+      "repB": "Mizukage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Futton (Vapour Style)",
+      "repB": "Futton (Vapour Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sage Mode",
+      "repB": "Sage Mode",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Raikage",
+      "repB": "Raikage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "三代Raikage",
+      "repB": "Third Raikage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "初代Hokage",
+      "repB": "First Hokage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "三代Hokage",
+      "repB": "Third Hokage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "二代Hokage",
+      "repB": "Second Hokage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Six Paths",
+      "repB": "Six Paths",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Nidaime(2nd)-sama",
+      "repB": "Nidaime(2nd)-sama",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shodai(1st)-sama",
+      "repB": "Shodai(1st)-sama",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "第五代Hokage",
+      "repB": "Fifth Hokage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hōbi (Wood Expulsion)",
+      "repB": "Hōbi (Wood Expulsion)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tengai Shinsei (Heavenly Obstacle Quaking Star)",
+      "repB": "Tengai Shinsei (Heavenly Obstacle Quaking Star)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "四代Hokage",
+      "repB": "Fourth Hokage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "四代Raikage",
+      "repB": "Fourth Raikage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Katon (Fire Style)",
+      "repB": "Katon (Fire Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Forbidden Technique",
+      "repB": "Forbidden Technique",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Transformation Technique",
+      "repB": "Transformation Technique",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Doton (Earth Style)",
+      "repB": "Doton (Earth Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rasengan",
+      "repB": "Rasengan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Fūton (Wind Style)",
+      "repB": "Fūton (Wind Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yōton (Lava Style)",
+      "repB": "Yōton (Lava Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Lightning Style Armour",
+      "repB": "Lightning Style Armour",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Jinton (Particle Style)",
+      "repB": "Jinton (Particle Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Jiton (Magnet Style)",
+      "repB": "Jiton (Magnet Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hyōton (Ice Style)",
+      "repB": "Hyōton (Ice Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Futton (Vapour Style)",
+      "repB": "Futton (Vapour Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shikotsumyaku (Dead Bone Pulse)",
+      "repB": "Shikotsumyaku (Dead Bone Pulse)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Mokuton (Wood Style)",
+      "repB": "Mokuton (Wood Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Suiton (Water Style)",
+      "repB": "Suiton (Water Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Raiton (Thunder Style)",
+      "repB": "Raiton (Thunder Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hiraishin",
+      "repB": "Hiraishin no Jutsu (Flying Thunder God Jutsu)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hokage",
+      "repB": "Hokage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Senju",
+      "repB": "Senju",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "SarutobiHiruzen",
+      "repB": "Sarutobi Hiruzen",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Konoha白",
+      "repB": "Konoha's White Fang",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "HatakeSakumo",
+      "repB": "Hatake Sakumo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tsuchikage",
+      "repB": "Tsuchikage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ōnoki",
+      "repB": "Ōnoki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kazekage",
+      "repB": "Kazekage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Black Zetsu",
+      "repB": "Black Zetsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "White Zetsu",
+      "repB": "White Zetsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rinnegan",
+      "repB": "Rinnegan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "KaguyaHime",
+      "repB": "Kaguya",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shikotsumyaku (Dead Bone Pulse)",
+      "repB": "Shikotsumyaku (Dead Bone Pulse)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Uchiha Matsuri",
+      "repB": "Uchiha Matsuri",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Uchiha",
+      "repB": "Uchiha",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kato Dan",
+      "repB": "Kato Dan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Matsuri",
+      "repB": "Matsuri",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rasa",
+      "repB": "Rasa",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Obito",
+      "repB": "Obito",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chiyue",
+      "repB": "Chiyue",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kurenai Yuhi",
+      "repB": "Kurenai Yuhi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Homura Mitokado",
+      "repB": "Homura Mitokado",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Koharu Utatane",
+      "repB": "Koharu Utatane",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shisui",
+      "repB": "Shisui",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hinata",
+      "repB": "Hinata",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Terumi Mei",
+      "repB": "Terumi Mei",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yagura",
+      "repB": "Yagura",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rinnegan",
+      "repB": "Rinnegan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tobirama",
+      "repB": "Tobirama",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ōtsutsuki",
+      "repB": "Ōtsutsuki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Impure World Reincarnation",
+      "repB": "Impure World Reincarnation",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sengoku",
+      "repB": "Sengoku",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ruofeng",
+      "repB": "Ruofeng",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Susanoo",
+      "repB": "Susanoo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sakumo",
+      "repB": "Sakumo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Xingye",
+      "repB": "Xingye",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kage-level",
+      "repB": "Kage-level",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kimimaro",
+      "repB": "Kimimaro",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Jinchuriki/column",
+      "repB": "Jinchuriki/column",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shura of Bones",
+      "repB": "Shura of Bones",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Banshō Ten'in (Universal Pull)",
+      "repB": "Banshō Ten'in (Universal Pull)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shinra Tensei (Almighty Push)",
+      "repB": "Shinra Tensei (Almighty Push)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rinne-Sharingan",
+      "repB": "Rinne-Sharingan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tomoe",
+      "repB": "Tomoe",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Gaara",
+      "repB": "Gaara",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Akatsuki",
+      "repB": "Akatsuki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sunagakure",
+      "repB": "Sunagakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Iwagakure",
+      "repB": "Iwagakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Amegakure",
+      "repB": "Amegakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Otogakure",
+      "repB": "Otogakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Uzushiogakure",
+      "repB": "Uzushiogakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kirigakure",
+      "repB": "Kirigakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kumogakure",
+      "repB": "Kumogakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chibaku Tensei (Heavenly Body Bursting from the Earth)",
+      "repB": "Chibaku Tensei (Heavenly Body Bursting from the Earth)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Gedō Mazō (Demonic Statue of the Outer Path)",
+      "repB": "Gedō Mazō (Demonic Statue of the Outer Path)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kisame Hoshigaki",
+      "repB": "Kisame Hoshigaki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Neji",
+      "repB": "Neji",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Byakugan",
+      "repB": "Byakugan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Anko",
+      "repB": "Anko",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Gentle Fist",
+      "repB": "Gentle Fist",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Eight Trigrams Sixty-Four Palms",
+      "repB": "Eight Trigrams Sixty-Four Palms",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Guy",
+      "repB": "Guy",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Protective Eight Trigrams Sixty-Four Palms",
+      "repB": "Protective Eight Trigrams Sixty-Four Palms",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Eight Trigrams Palms Revolving Heaven",
+      "repB": "Eight Trigrams Palms Revolving Heaven",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Karin",
+      "repB": "Karin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shizune",
+      "repB": "Shizune",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Anbu",
+      "repB": "Anbu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Akatsuki",
+      "repB": "Akatsuki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Konan",
+      "repB": "Konan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hanabi",
+      "repB": "Hanabi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tenseigan",
+      "repB": "Tenseigan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Mitarashi",
+      "repB": "Mitarashi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tsukuyomi",
+      "repB": "Tsukuyomi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kyūbi (Nine-Tails)",
+      "repB": "Kyuubi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Mitarashi",
+      "repB": "Mitarashi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hime",
+      "repB": "Hime",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Otsutsuki",
+      "repB": "Otsutsuki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Mikoto",
+      "repB": "Mikoto",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chidori",
+      "repB": "Chidori",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shiro",
+      "repB": "Shiro",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hiashi",
+      "repB": "Hiashi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hizashi",
+      "repB": "Hizashi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kurama",
+      "repB": "Kurama",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Itachi",
+      "repB": "Itachi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kankuro",
+      "repB": "Kankuro",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Temari",
+      "repB": "Temari",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kisame Hoshigaki",
+      "repB": "Kisame Hoshigaki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Amaterasu",
+      "repB": "Amaterasu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yakushi",
+      "repB": "Yakushi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kabuto",
+      "repB": "Kabuto",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "-Kun",
+      "repB": "-Kun",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Feng Ye",
+      "repB": "Feng Ye",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Might",
+      "repB": "Might",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Guy",
+      "repB": "Guy",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kusanagi",
+      "repB": "Kusanagi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Mukuro",
+      "repB": "Mukuro",
+      "type": "Simple",
+      "case": "Override",
+      "active": false
+    },
+    {
+      "repA": "Lin Feng",
+      "repB": "Lin Feng",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Xia Muyang",
+      "repB": "Xia Muyang",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ichiraku",
+      "repB": "Ichiraku",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ino",
+      "repB": "Ino",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "TenTen",
+      "repB": "TenTen",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Lee",
+      "repB": "Lee",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shikamaru",
+      "repB": "Shikamaru",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Choji",
+      "repB": "Choji",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rin",
+      "repB": "Rin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Liu Yun",
+      "repB": "Liu Yun",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Higurashi",
+      "repB": "Higurashi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tianyu",
+      "repB": "Tianyu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Keiko",
+      "repB": "Keiko",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kuzi",
+      "repB": "Kuzi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shinku Yuhi",
+      "repB": "Shinku Yuhi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yuhi",
+      "repB": "Yuhi",
+      "type": "Simple",
+      "case": "Override",
+      "active": false
+    },
+    {
+      "repA": "Kurayoshi",
+      "repB": "Kurayoshi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Iruka",
+      "repB": "Iruka",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chen Mo",
+      "repB": "Chen Mo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Matsuba",
+      "repB": "Matsuba",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Pervert",
+      "repB": "Pervert",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kirigakure",
+      "repB": "Kirigakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kumogakure",
+      "repB": "Kumogakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "The Eight Inner Gates",
+      "repB": "The Eight Inner Gates",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Aburame",
+      "repB": "Aburame",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shino",
+      "repB": "Shino",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Wu Chen",
+      "repB": "Wu Chen",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yang Ming",
+      "repB": "Yang Ming",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yang Ming",
+      "repB": "Yang Ming",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Master",
+      "repB": "Master",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Grandmaster",
+      "repB": "Grandmaster",
+      "type": "Simple",
+      "case": "Override",
+      "active": false
+    },
+    {
+      "repA": "Penultimate",
+      "repB": "Penultimate",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ultimate",
+      "repB": "Ultimate",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shikai",
+      "repB": "Shikai",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Bankai",
+      "repB": "Bankai",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Zanpakuto",
+      "repB": "Zanpakuto",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Senpō/Sage Art",
+      "repB": "Senpō/Sage Art",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shin Su",
+      "repB": "Shin Su",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Lei Luo",
+      "repB": "Lei Luo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Uzuki",
+      "repB": "Uzuki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yūgao",
+      "repB": "Yūgao",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ye Lan",
+      "repB": "Ye Lan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ye Lan",
+      "repB": "Ye Lan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hiroshi",
+      "repB": "Hiroshi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "All-Killing Ash Bones",
+      "repB": "All-Killing Ash Bones",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shukaku",
+      "repB": "Shukaku",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Silver",
+      "repB": "Silver",
+      "type": "Simple",
+      "case": "Override",
+      "active": false
+    },
+    {
+      "repA": "Sakura",
+      "repB": "Sakura",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Inuzuka",
+      "repB": "Inuzuka",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kiba",
+      "repB": "Kiba",
+      "type": "Simple",
+      "case": "Override",
+      "active": false
+    },
+    {
+      "repA": "Kanna",
+      "repB": "Kanna",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "-chan",
+      "repB": "-chan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kanna",
+      "repB": "Kanna",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Gong Yi",
+      "repB": "Gong Yi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kirito",
+      "repB": "Kirito",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hyorinmaru",
+      "repB": "Hyorinmaru",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rock",
+      "repB": "Rock",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Zhenwu",
+      "repB": "Zhenwu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Might",
+      "repB": "Might",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Takagi",
+      "repB": "Takagi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Long Ye",
+      "repB": "Long Ye",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kurotsuchi",
+      "repB": "Kurotsuchi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chikoto",
+      "repB": "Chikoto",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ronglin",
+      "repB": "Ronglin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Masaki",
+      "repB": "Masaki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Amomori",
+      "repB": "Amomori",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Satomi",
+      "repB": "Satomi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Observation Haki",
+      "repB": "Observation Haki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Armament Haki",
+      "repB": "Armament Haki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Conqueror's Haki",
+      "repB": "Conqueror's Haki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hefeng",
+      "repB": "Hefeng",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Liunan",
+      "repB": "Liunan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chiba",
+      "repB": "Chiba",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Onee",
+      "repB": "Onee",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Loli",
+      "repB": "Loli",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Uchiha Kakusa",
+      "repB": "Uchiha Kakusa",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chakra Enhanced Strength",
+      "repB": "Chakra Enhanced Strength",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tsundere",
+      "repB": "Tsundere",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Brocon",
+      "repB": "Brocon",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Uchiha Kagami",
+      "repB": "Uchiha Kagami",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Adamantine Sealing Chains",
+      "repB": "Adamantine Sealing Chains",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Uchiha Nomi",
+      "repB": "Uchiha Nomi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Great Fireball Jutsu",
+      "repB": "Great Fireball Jutsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chidori/Lightning Cutter",
+      "repB": "Chidori/Lightning Cutter",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chidori Senbon",
+      "repB": "Chidori Senbon",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chidori Sharp Spear",
+      "repB": "Chidori Sharp Spear",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chidori Current",
+      "repB": "Chidori Current",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Majestic Destroyer Flame/Great Fire Annihilation",
+      "repB": "Majestic Destroyer Flame/Great Fire Annihilation",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Great Fire Destruction",
+      "repB": "Great Fire Destruction",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Heavenly Foot of Pain",
+      "repB": "Heavenly Foot of Pain",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Raikiri",
+      "repB": "Raikiri",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "My first kiss is gone",
+      "repB": "My first kiss is gone",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Senju Kaze",
+      "repB": "Senju Kaze",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Uchiha Kuramā",
+      "repB": "Uchiha Kuramā",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Uzumaki",
+      "repB": "Uzumaki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sage Body",
+      "repB": "Sage Body",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Jirōbō",
+      "repB": "Jirōbō",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Earth Shore Return",
+      "repB": "Earth Shore Return",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Earth Dragon Bullet",
+      "repB": "Earth Dragon Bullet",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Dragon Flame Jutsu",
+      "repB": "Dragon Flame Jutsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Vacuum Sphere",
+      "repB": "Vacuum Sphere",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Susanoo",
+      "repB": "Susanoo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ebizō",
+      "repB": "Ebizō",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Fierce Dragon Flame Jutsu",
+      "repB": "Fierce Dragon Flame Jutsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "凤仙花爪Yuhi",
+      "repB": "Phoenix Flower Jutsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Vacuum Sword",
+      "repB": "Vacuum Sword",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Gale Palm",
+      "repB": "Gale Palm",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Nara",
+      "repB": "Nara",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shikaku",
+      "repB": "Shikaku",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Water Dragon Bullet",
+      "repB": "Water Dragon Bullet",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Grand Fireball",
+      "repB": "Grand Fireball",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Earth Dragon Bullet",
+      "repB": "Earth Dragon Bullet",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sunagakure",
+      "repB": "Sunagakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hanzō of the Salamander",
+      "repB": "Hanzō of the Salamander",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Exploding Flame Formation",
+      "repB": "Exploding Flame Formation",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Wood Locking Wall",
+      "repB": "Wood Locking Wall",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "World of Trees Wall",
+      "repB": "World of Trees Wall",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tree Bind Flourishing Burial",
+      "repB": "Tree Bind Flourishing Burial",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Nine Types",
+      "repB": "Nine Types",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tailed Beast Bomb",
+      "repB": "Tailed Beast Bomb",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tailed Beast Bomb",
+      "repB": "Tailed Beast Bomb",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Mukade",
+      "repB": "Mukade",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rōran",
+      "repB": "Rōran",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rōran",
+      "repB": "Rōran",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Momoshiki",
+      "repB": "Momoshiki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hagoromo",
+      "repB": "Hagoromo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hamura",
+      "repB": "Hamura",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ten-Tails",
+      "repB": "Ten-Tails",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Momoshiki",
+      "repB": "Momoshiki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Karura",
+      "repB": "Karura",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Pakura",
+      "repB": "Pakura",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yashamaru",
+      "repB": "Yashamaru",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ringo",
+      "repB": "Ringo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ameyuri",
+      "repB": "Ameyuri",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Biwa",
+      "repB": "Biwa",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Jūzō",
+      "repB": "Jūzō",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Munashi",
+      "repB": "Munashi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Jinpachi",
+      "repB": "Jinpachi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shakuton (Scorch Style)",
+      "repB": "Shakuton (Scorch Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Dance of the Shikigami",
+      "repB": "Dance of the Shikigami",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Mizutsuki Kaguya",
+      "repB": "Mizutsuki Kaguya",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ten Thousand Ice Petals",
+      "repB": "Ten Thousand Ice Petals",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hand Seal",
+      "repB": "Hand Seal",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Eighty Gods Vacuum Attack",
+      "repB": "Eighty Gods Vacuum Attack",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Eight Trigrams",
+      "repB": "Eight Trigrams",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Vacuum Palm",
+      "repB": "Vacuum Palm",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Nohara Mana",
+      "repB": "Nohara Mana",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "False Darkness",
+      "repB": "False Darkness",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kirin",
+      "repB": "Kirin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hard Whirlpool Water Blade",
+      "repB": "Hard Whirlpool Water Blade",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Asuma",
+      "repB": "Asuma",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chiyo",
+      "repB": "Chiyo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Bunpuku",
+      "repB": "Bunpuku",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ryuuki",
+      "repB": "Ryuuki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Dragon Flame Release Song Jutsu",
+      "repB": "Dragon Flame Release Song Jutsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Uchiha Tobu",
+      "repB": "Uchiha Tobu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Split Detachment of the Primitive World Technique",
+      "repB": "Split Detachment of the Primitive World Technique",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kekkei tōta",
+      "repB": "Kekkei tōta",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Detachment of the Primitive World Technique",
+      "repB": "Detachment of the Primitive World Technique",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Iron Sand World Method",
+      "repB": "Iron Sand World Method",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Super Weighted Boulder Jutsu",
+      "repB": "Super Weighted Boulder Jutsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rasenshuriken",
+      "repB": "Rasenshuriken",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Big Ball Rasengan",
+      "repB": "Big Ball Rasengan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Menma",
+      "repB": "Menma",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Great Spiralling Ring",
+      "repB": "Great Spiralling Ring",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hiraishin Guiding Thunder",
+      "repB": "Hiraishin Guiding Thunder",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Spiralling Ring",
+      "repB": "Spiralling Ring",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Gunbai Uchiwa",
+      "repB": "Gunbai Uchiwa",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kamui",
+      "repB": "Kamui",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sage Art",
+      "repB": "Sage Art",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Gate of the Great God",
+      "repB": "Gate of the Great God",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kuriarare",
+      "repB": "Kuriarare",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kushimaru",
+      "repB": "Kushimaru",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Akebino",
+      "repB": "Akebino",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Jinin",
+      "repB": "Jinin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kurosuki",
+      "repB": "Kurosuki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "雷Kiba",
+      "repB": "Raiga",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Suikazan",
+      "repB": "Suikazan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Fuguki",
+      "repB": "Fuguki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Infinite Tsukuyomi",
+      "repB": "Infinite Tsukuyomi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ryūjin Jakka",
+      "repB": "Ryūjin Jakka",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Gudōdama (Truth-Seeking Ball)",
+      "repB": "Gudōdama (Truth-Seeking Ball)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Uchiha Yasei",
+      "repB": "Uchiha Yasei",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Big Flame Bullet",
+      "repB": "Big Flame Bullet",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Water Formation Wall",
+      "repB": "Water Formation Wall",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yoshiko",
+      "repB": "Yoshiko",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kurosuke",
+      "repB": "Kurosuke",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Loess",
+      "repB": "Loess",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kekkei Mōra",
+      "repB": "Kekkei Mōra",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yomotsu Hirasaka",
+      "repB": "Yomotsu Hirasaka",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Gale Style (Storm Style)光Kiba",
+      "repB": "Storm Release Light Fang",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Limbo",
+      "repB": "Limbo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Border Jail",
+      "repB": "Border Jail",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Pain",
+      "repB": "Pain",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Heavenly Path",
+      "repB": "Heavenly Path",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Extremely Steaming Murder",
+      "repB": "Extremely Steaming Murder",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Gold Dust Imperial Funeral",
+      "repB": "Gold Dust Imperial Funeral",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Gold Dust Imperial Funeral",
+      "repB": "Gold Dust Imperial Funeral",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Subterranean Voyage",
+      "repB": "Subterranean Voyage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kakuzu",
+      "repB": "Kakuzu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hidan",
+      "repB": "Hidan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Killer Bee",
+      "repB": "Killer Bee",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Deidara",
+      "repB": "Deidara",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kotoamatsukami",
+      "repB": "Kotoamatsukami",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rabbit Hair Needle",
+      "repB": "Rabbit Hair Needle",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ōtsutsuki Isshiki",
+      "repB": "Ōtsutsuki Isshiki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Jigen",
+      "repB": "Jigen",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sukunahikona",
+      "repB": "Sukunahikona",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kinshiki",
+      "repB": "Kinshiki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Slippery",
+      "repB": "Slippery",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Zanka no Tachi",
+      "repB": "Zanka no Tachi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yoru",
+      "repB": "Yoru",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yūma",
+      "repB": "Yūma",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hyuga Yoru",
+      "repB": "Hyuga Yoru",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hyuga Natsu",
+      "repB": "Hyuga Natsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Natsu",
+      "repB": "Natsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Lolicon",
+      "repB": "Lolicon",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yoru-Kun",
+      "repB": "Yoru-Kun",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tsuchi",
+      "repB": "Tsuchi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Main Clan",
+      "repB": "Main Clan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Side Clan",
+      "repB": "Side Clan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Revolving Heaven",
+      "repB": "Revolving Heaven",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sixty-Four Palms",
+      "repB": "Sixty-Four Palms",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Mami",
+      "repB": "Mami",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Morino",
+      "repB": "Morino",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ibiki",
+      "repB": "Ibiki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Etarnal",
+      "repB": "Etarnal",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tekka",
+      "repB": "Tekka",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kaede",
+      "repB": "Kaede",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rock Lodging Destruction",
+      "repB": "Rock Lodging Destruction",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Great Exploding Water Colliding Wave",
+      "repB": "Great Exploding Water Colliding Wave",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Great Waterfall Technique",
+      "repB": "Great Waterfall Technique",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kosuke",
+      "repB": "Kosuke",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Water Formation Pillar",
+      "repB": "Water Formation Pillar",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Dance of the Larch",
+      "repB": "Dance of the Larch",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Dance of the Willow",
+      "repB": "Dance of the Willow",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Inabi",
+      "repB": "Inabi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yashiro",
+      "repB": "Yashiro",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Phoenix Sage Fire Technique",
+      "repB": "Phoenix Sage Fire Technique",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ice Temple Pillar",
+      "repB": "Ice Temple Pillar",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ice Rock Dome of Magnificent Nothingness",
+      "repB": "Ice Rock Dome of Magnificent Nothingness",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Demonic Mirroring Ice Crystals",
+      "repB": "Demonic Mirroring Ice Crystals",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shota",
+      "repB": "Shota",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shota Sasori",
+      "repB": "Shota Sasori",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Dance of the Clematis: Flower",
+      "repB": "Dance of the Clematis: Flower",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Strong Fist",
+      "repB": "Strong Fist",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Nonō",
+      "repB": "Nonō",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sasori",
+      "repB": "Sasori",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sasori of the Red Sand",
+      "repB": "Sasori of the Red Sand",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yellow Flash",
+      "repB": "Yellow Flash",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Mount Myōboku",
+      "repB": "Mount Myōboku",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Quick Style",
+      "repB": "Quick Style",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Morning Peacock",
+      "repB": "Morning Peacock",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Swamp of the Underworld",
+      "repB": "Swamp of the Underworld",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Nii",
+      "repB": "Nii",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yugito",
+      "repB": "Yugito",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Gale Style (Storm Style)",
+      "repB": "Gale Style (Storm Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Bakuton (Explosion Style)",
+      "repB": "Bakuton (Explosion Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Madara",
+      "repB": "Madara",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sora no Kuni",
+      "repB": "Sora no Kuni",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shinnō",
+      "repB": "Shinnō",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hiruko",
+      "repB": "Hiruko",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Meiton (Shade Style)",
+      "repB": "Meiton (Shade Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Taketatsu",
+      "repB": "Taketatsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Wind Blade Jutsu",
+      "repB": "Wind Blade Jutsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shirakumo",
+      "repB": "Shirakumo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hayama",
+      "repB": "Hayama",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hayama",
+      "repB": "Hayama",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Uchiha Izumi",
+      "repB": "Uchiha Izumi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hazuki",
+      "repB": "Hazuki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Izumi",
+      "repB": "Izumi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Haku",
+      "repB": "Haku",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Samui",
+      "repB": "Samui",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Gamamaru",
+      "repB": "Gamamaru",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Iwagakure",
+      "repB": "Iwagakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kushina",
+      "repB": "Kushina",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hyuga Okiba",
+      "repB": "Hyuga Okiba",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Obito",
+      "repB": "Obito",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tenseigan",
+      "repB": "Tenseigan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Jiraiya",
+      "repB": "Jiraiya",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tobitake",
+      "repB": "Tobitake",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Tonbo",
+      "repB": "Tonbo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yūhi Kurenai",
+      "repB": "Yūhi Kurenai",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sarutobi",
+      "repB": "Sarutobi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Asuma",
+      "repB": "Asuma",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shizune",
+      "repB": "Shizune",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Masayuki",
+      "repB": "Masayuki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sunagakure",
+      "repB": "Sunagakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kumogakure",
+      "repB": "Kumogakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shikkotsu Forest",
+      "repB": "Shikkotsu Forest",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ryūchi Cave",
+      "repB": "Ryūchi Cave",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kazekage",
+      "repB": "Kazekage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rasa",
+      "repB": "Rasa",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Pakura",
+      "repB": "Pakura",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Namikaze",
+      "repB": "Namikaze",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Minato",
+      "repB": "Minato",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Might Guy",
+      "repB": "Might Guy",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Might Duy",
+      "repB": "Might Duy",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "White Zetsu",
+      "repB": "White Zetsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rinnegan",
+      "repB": "Rinnegan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kirigakure",
+      "repB": "Kirigakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shiraito",
+      "repB": "Shiraito",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yuhi-chan",
+      "repB": "Yuhi-chan",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hōzuki",
+      "repB": "Hōzuki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Mangetsu",
+      "repB": "Mangetsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Mangetsu",
+      "repB": "Mangetsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yōton (Lava Style)",
+      "repB": "Yōton (Lava Style)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Lava Monster Jutsu",
+      "repB": "Lava Monster Jutsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Black Zetsu",
+      "repB": "Black Zetsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Amegakure",
+      "repB": "Amegakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Amegakure",
+      "repB": "Amegakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Amekage",
+      "repB": "Amekage",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hiruzen",
+      "repB": "Hiruzen",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Utatane",
+      "repB": "Utatane",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Koharu",
+      "repB": "Koharu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kitsuchi",
+      "repB": "Kitsuchi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Sphere of Graves",
+      "repB": "Sphere of Graves",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Rampart of Flowing Soil",
+      "repB": "Rampart of Flowing Soil",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Karura",
+      "repB": "Karura",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Puppet Technique",
+      "repB": "Puppet Technique",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Manipulating Attack Blades",
+      "repB": "Manipulating Attack Blades",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chakra Shield",
+      "repB": "Chakra Shield",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Wild Water Wave",
+      "repB": "Wild Water Wave",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Three Jewels Suction Crushing",
+      "repB": "Three Jewels Suction Crushing",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Inoru",
+      "repB": "Inoru",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Maruyama",
+      "repB": "Maruyama",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Great Flame Flower",
+      "repB": "Great Flame Flower",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Water Colliding Wave",
+      "repB": "Water Colliding Wave",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Earth-Style Wall",
+      "repB": "Earth-Style Wall",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Earth Flow River",
+      "repB": "Earth Flow River",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Dance of the Camellia",
+      "repB": "Dance of the Camellia",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shikaku",
+      "repB": "Shikaku",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Demonic Illusion",
+      "repB": "Demonic Illusion",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Moving Earth Core",
+      "repB": "Moving Earth Core",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hell Viewing Technique",
+      "repB": "Hell Viewing Technique",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shackling Stakes Technique",
+      "repB": "Shackling Stakes Technique",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Added-Weight Rock Technique",
+      "repB": "Added-Weight Rock Technique",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Light-Weight Rock Technique",
+      "repB": "Light-Weight Rock Technique",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Extremely Steaming Murder",
+      "repB": "Extremely Steaming Murder",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Chōza",
+      "repB": "Chōza",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yuhiko",
+      "repB": "Yuhiko",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hiruma",
+      "repB": "Hiruma",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Killer Bee",
+      "repB": "Killer Bee",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Dodai",
+      "repB": "Dodai",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shinra Banshō (All Creation)",
+      "repB": "Shinra Banshō (All Creation)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ryūchi Cave",
+      "repB": "Ryūchi Cave",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shikkotsu Forest",
+      "repB": "Shikkotsu Forest",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kyoh",
+      "repB": "Kyoh",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Shiranui",
+      "repB": "Shiranui",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Genma",
+      "repB": "Genma",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Water Shark Bomb Jutsu",
+      "repB": "Water Shark Bomb Jutsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Missing-nin",
+      "repB": "Missing-nin",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Iwagakure",
+      "repB": "Iwagakure",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kamizuki",
+      "repB": "Kamizuki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Izumo",
+      "repB": "Izumo",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Inoichi",
+      "repB": "Inoichi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Samui",
+      "repB": "Samui",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Samui",
+      "repB": "Samui",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ayame",
+      "repB": "Ayame",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Hayate",
+      "repB": "Hayate",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kannabi Bridge",
+      "repB": "Kannabi Bridge",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Ryuken",
+      "repB": "Ryuken",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Karatachi",
+      "repB": "Karatachi",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Adamantine Forest Call",
+      "repB": "Adamantine Forest Call",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Four-Pillar Prison Technique",
+      "repB": "Four-Pillar Prison Technique",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Deep Forest Emergence",
+      "repB": "Deep Forest Emergence",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Wood Golem Jutsu",
+      "repB": "Wood Golem Jutsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Kazahana",
+      "repB": "Kazahana",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Koyuki",
+      "repB": "Koyuki",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Princess Gale",
+      "repB": "Princess Gale",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Fujikaze",
+      "repB": "Fujikaze",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Yukie",
+      "repB": "Yukie",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "Wood Dragon Jutsu",
+      "repB": "Wood Dragon Jutsu",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    }
+  ]
+}
